@@ -5,4 +5,4 @@
 
 ### For use Online
 
-You will need to use ngrok or anything else but after you have the public url, replace ws://localhost:3500 with wss://{remote_url_you_got_from_ngrok}
+You will need to use ngrok or anything else but after you have the public url, replace ws://localhost:3500 with wss://{remote_url_you_got_from_ngrok} on the caller.js and receiver.js from the front-end
